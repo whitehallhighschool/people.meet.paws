@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to People Meet Paws!
 
 You can use the [editor on GitHub](https://github.com/whitehallhighschool/people.meet.paws/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
