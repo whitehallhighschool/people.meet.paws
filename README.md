@@ -1,5 +1,3 @@
- <html>
-
 
       <head>
         <title>Sign Up</title>
@@ -22,7 +20,3 @@
         
       </form>
       </body>
-      
-      
-      
-</html>
