@@ -1,18 +1,31 @@
-<form action="/action_page.php">
-  <div class="container">
-    <label><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" required>
+  <!DOCTYPE html>
+  
+  
+<html>
 
-    <label><b>Password</b></label>
-    <input type="password" placeholder="Enter Password" name="psw" required>
 
-    <label><b>Repeat Password</b></label>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
-    <input type="checkbox" checked="checked"> Remember me
-    
-    <div class="clearfix">
-      <button type="button"  class="cancelbtn">Cancel</button>
-      <button type="submit" class="signupbtn">Sign Up</button>
-    </div>
-  </div>
-</form>
+      <head>
+        <title>Sign Up</title>
+      </head>
+      
+      <body>
+      
+        <div class="form-wrap">
+      
+      <form>
+      
+        <h1>Sign Up</h1>
+        <input type="text" placeholder="First Name">
+        <input type="text" placeholder="Last Name">
+        <input type="text" placeholder="Username">
+        <input type="email" placeholder="Email">
+        <input type="password" placeholder="Password">
+        <input type="password" placeholder="Confirm Password">
+        <input type="button" value="Sign Up">
+        
+      </form>
+      </body>
+      
+      
+      
+</html>
