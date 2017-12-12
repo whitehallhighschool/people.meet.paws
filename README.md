@@ -6,7 +6,7 @@
       <style>
             *{margin:0; padding:0;}   
             body{background:#ecfif4;}
-            form-wrap{width: 320px; background: #3e3d3d; padding: 40px 20px; box-sizing: border-box;}
+            .form-wrap{ width: 320px; background: #3e3d3d; padding: 40px 20px; box-sizing: border-box;}
       
       </style>
       
