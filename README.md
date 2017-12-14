@@ -47,6 +47,6 @@
    
      </body>
      
-     
+     <A HREF="http://www.htmlgoodies.com">Click Here for HTMLGoodies</A>
      
 </html>
