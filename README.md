@@ -30,6 +30,6 @@
    
      </body>
      
-     <A rel="stylesheet" type="text/css" href="mystyle.css"></A>
+     <A rel="stylesheet" type="text/css" href="README.css"></A>
      
 </html>
