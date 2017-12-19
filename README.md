@@ -30,6 +30,6 @@
    
      </body>
      
-     <A HREF="README.css"></A>
+     <link rel="stylesheet" href="README.css">
      
 </html>
