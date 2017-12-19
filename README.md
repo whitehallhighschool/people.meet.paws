@@ -30,6 +30,6 @@
    
      </body>
      
-     <A HREF="http://www.htmlgoodies.com">Click Here for HTMLGoodies</A>
+     <A rel="stylesheet" type="text/css" href="mystyle.css"></A>
      
 </html>
