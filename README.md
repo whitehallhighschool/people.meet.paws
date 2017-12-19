@@ -13,7 +13,7 @@
             *{margin:0; padding:0;}   
             body{background:#ecfif4; font-family: sans-serif;}
             
-            .form-wrap{ width: 320px; background: #3e3d3d; padding: 40px 20px; box-sizing: border-box; position: static; left: 50%; top: 50%; bottom: 20px; transform: translate(-50%, -50%);}
+            .form-wrap{ width: 320px; background: #3e3d3d; padding: 40px 20px; box-sizing: border-box; position: static; left: 50%; top: 50%; top: 20px; transform: translate(-50%, -50%);}
            h1{text-align: center; color: #fff; font-weight: normal; margin-bottom: 20px;}
            
            input{width: 100%; background: none; border: 1px solid #fff; border-radius: 3px; padding: 6px 15px; box-sizing: border-box; margin-bottom: 20px; font-size: 16px; color: #fff;}
