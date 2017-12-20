@@ -47,6 +47,4 @@
    
      </body>
      
-     <link href="stylesheets/main.css">
-     
 </html>
